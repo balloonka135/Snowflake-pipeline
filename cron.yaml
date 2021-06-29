@@ -1,0 +1,4 @@
+cron:
+- description: "cron job for Yahoo Finance data extraction running on a daily basis"
+  url: /
+  schedule: every 24 hours
